@@ -1,0 +1,14 @@
+/Users/macbook/RiderProjects/Project_HSE/Project_HSE/obj/Debug/net8.0/Project_HSE.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/RiderProjects/Project_HSE/Project_HSE/obj/Debug/net8.0/Project_HSE.AssemblyInfoInputs.cache
+/Users/macbook/RiderProjects/Project_HSE/Project_HSE/obj/Debug/net8.0/Project_HSE.AssemblyInfo.cs
+/Users/macbook/RiderProjects/Project_HSE/Project_HSE/obj/Debug/net8.0/Project_HSE.csproj.CoreCompileInputs.cache
+/Users/macbook/RiderProjects/Project_HSE/Project_HSE/bin/Debug/net8.0/Project_HSE
+/Users/macbook/RiderProjects/Project_HSE/Project_HSE/bin/Debug/net8.0/Project_HSE.deps.json
+/Users/macbook/RiderProjects/Project_HSE/Project_HSE/bin/Debug/net8.0/Project_HSE.runtimeconfig.json
+/Users/macbook/RiderProjects/Project_HSE/Project_HSE/bin/Debug/net8.0/Project_HSE.dll
+/Users/macbook/RiderProjects/Project_HSE/Project_HSE/bin/Debug/net8.0/Project_HSE.pdb
+/Users/macbook/RiderProjects/Project_HSE/Project_HSE/obj/Debug/net8.0/Project_HSE.dll
+/Users/macbook/RiderProjects/Project_HSE/Project_HSE/obj/Debug/net8.0/refint/Project_HSE.dll
+/Users/macbook/RiderProjects/Project_HSE/Project_HSE/obj/Debug/net8.0/Project_HSE.pdb
+/Users/macbook/RiderProjects/Project_HSE/Project_HSE/obj/Debug/net8.0/Project_HSE.genruntimeconfig.cache
+/Users/macbook/RiderProjects/Project_HSE/Project_HSE/obj/Debug/net8.0/ref/Project_HSE.dll
